@@ -1,7 +1,5 @@
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 
 public class MineBox extends JButton {
     public static final ImageIcon MINE = new ImageIcon("images/skull-48.png");
